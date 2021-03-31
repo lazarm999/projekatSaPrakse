@@ -1,0 +1,306 @@
+{
+    "tabs": {
+        "map": [
+            "Map",
+            "Mapa"
+        ],
+        "chart": [
+            "Chart",
+            "Grafik"
+        ],
+        "table" : [
+            "Table",
+            "Tabela"
+        ],
+        "cities": [
+            "Cities",
+            "Gradovi"
+        ],
+        "contact": [
+            "Contact",
+            "Kontakt"
+        ]
+    },
+    "button": {
+        "submit": [
+            "Submit",
+            "Potvrdi"
+        ],
+        "cancel": [
+            "Cancel",
+            "Otkaži"
+        ],
+        "send": [
+            "Send",
+            "Pošalji"
+        ]
+    },
+    "toolbox": {
+        "header": [
+            "Filters",
+            "Filteri"
+        ]
+    },
+    "dateSpan": {
+        "title": [
+            "Date span",
+            "Vremenski period"
+        ],
+        "chooseDate": [
+            "Choose date",
+            "Odaberite datum"
+        ]
+    },
+    "categorySelect": {
+        "title": [
+            "Categories",
+            "Kategorije"
+        ],
+        "chooseCategory": [
+            "Choose category",
+            "Odaberite kategoriju"
+        ],
+        "allCategories": [
+            "All categories",
+            "Sve kategorije"
+        ],
+        "allSubCategories": [
+            "All subcategories",
+            "Sve podkategorije"
+        ]
+    },
+    "searchField": {
+        "title": [
+            "Search",
+            "Pretraga"
+        ],
+        "placeholder": [
+            "Search",
+            "Pretraga"
+        ]
+    },
+    "normalizeData": {
+        "title": [
+            "Options",
+            "Opcije"
+        ],
+        "normalizeDataPopulation": [
+            "Normalize by population",
+            "Normalizuj po br. stanovnika"
+        ],
+        "normalizeDataSellers": [
+            "Normalize by sellers",
+            "Normalizuj po br. prodavaca"
+        ],
+        "definition": {
+            "byPopulation": [
+                "Ads count per ${times} citizens",
+                "Broj oglasa na ${times} stanovnika"
+            ],
+            "bySellers": [
+                "Ads count per ${times} sellers",
+                "Broj oglasa na ${times} prodavaca"
+            ],
+            "notNormalized": [
+                "Ads count",
+                "Broj oglasa"
+            ]
+        }
+    },
+    "deduplicateData":[
+        "Show deduplicate data",
+        "Prikaži deduplicirane podatke"
+    ],
+    "rangeSlider": {
+        "chooseInterval": [
+            "Choose interval",
+            "Odaberite interval"
+        ],
+        "wholeInterval": [
+            "Whole interval",
+            "Ceo interval"
+        ],
+        "days": [
+            "days",
+            "dana"
+        ]
+    },
+    "map": {
+        "municipality": [
+            "${name} municipality",
+            "Opština ${name}"
+        ],
+        "region": [
+            "${name} region",
+            "${name} okrug"
+        ],
+        "averagePriceRSD": [
+            "Average price in RSD: ",
+            "Prosečna cena u dinarima: "
+        ],
+        "adCount": [
+            "Ad count: ",
+            "Broj oglasa: "
+        ],
+        "priceSumRSD": [
+            "Price summary: ",
+            "Vrednost oglasa: "
+        ],
+        "numberOfSellers":[
+            "Number of sellers: ",
+            "Broj prodavaca: "
+        ],
+        "population":[
+            "Population: ",
+            "Broj stanovnika: "
+        ],
+        "selectedAdsSummary":[
+            "Selected ads summary",
+            "Podaci o izabranim oglasima"
+        ],
+        "selectedRegionSummary": [
+            "Selected region summary",
+            "Podaci o izabranom regionu"
+        ],
+        "selectedMunicipalitySummary": [
+            "Selected municipality summary",
+            "Podaci o izabranoj opštini"
+        ]
+    },
+    "contact": {
+        "address": [
+            "Address:",
+            "Adresa:"
+        ],
+        "telephone": [
+            "Telephone:",
+            "Telefon:"
+        ],
+        "email": [
+            "E-mail:",
+            "E-mail:"
+        ],
+        "contactUs": [
+            "Contact us",
+            "Kontaktirajte nas"
+        ],
+        "name": [
+            "Name",
+            "Ime"
+        ],
+        "polaceHolders": {
+            "name": [
+                "Your name",
+                "Vaše ime"
+            ],
+            "email": [
+                "Your e-mail",
+                "Vaš e-mail"
+            ],
+            "message": [
+                "Your message",
+                "Vaša poruka"
+            ]
+        }
+    },
+    "priceRangeSelect": {
+        "title": [
+            "Price range",
+            "Cenovni opseg"
+        ],
+        "from": [
+            "from",
+            "od"
+        ],
+        "to": [
+            "to",
+            "do"
+        ]
+    },
+    "dataSummary": {
+        "title": [
+            "Ads Summary",
+            "Izabrani oglasi"
+        ],
+        "adCount": [
+            "Number ",
+            "Broj "
+        ],
+        "valueOfAds": [
+            "Value ${value} dinars",
+            "Vrednost ${value} dinara"
+        ],
+        "timePeriod": [
+            "Time period ${days} days",
+            "Vremenski opseg ${days} dana"
+        ]
+    },
+    "chart":{
+        "adCountDistributionOverPrice":[
+            "Ad count distribution over price",
+            "Raspodela broja oglasa prema ceni"
+        ]
+    },
+    "table": {
+        "regionData": [
+            "Region Data",
+            "Podaci o regionu"
+        ],
+        "municipalityData": [
+            "Municipality Data",
+            "Podaci o opštini"
+        ],
+        "cityData": [
+            "City Data",
+            "Podaci o gradu"
+        ],
+        "region": [
+            "Region",
+            "Region"
+        ],
+        "municipality": [
+            "Municipality",
+            "Opština"
+        ],
+        "city": [
+            "City",
+            "Grad"
+        ],
+        "adCount": [
+            "Ad count",
+            "Broj oglasa"
+        ],
+        "population": [
+            "Population",
+            "Broj stanovnika"
+        ],
+        "averagePriceRSD": [
+            "Average price in RSD",
+            "Prosečna cena u dinarima"
+        ],
+        "priceSumRSD": [
+            "Price summary",
+            "Vrednost oglasa"
+        ],
+        "numberOfSellers":[
+            "Number of sellers",
+            "Broj prodavaca"
+        ],
+        "totalNumberOfSellers":[
+            "Total number of sellers",
+            "Ukupan broj prodavaca"
+        ],
+        "exportRegions": [
+            "Export regions",
+            "Eksportuj regione"
+        ],
+        "exportMunicipalities": [
+            "Export municipalities",
+            "Eksportuj opštine"
+        ],
+        "exportCities": [
+            "Export cities",
+            "Eksportuj gradove"
+        ]
+    }
+}

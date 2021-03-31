@@ -1,0 +1,20 @@
+.GradientBox{
+    width: 10px;
+    height: 10px;
+    margin-top: 5px;
+    margin-left: 4px;
+
+}
+.Container{
+    border-radius: 10px;
+    padding: 10px;
+}
+.GradientPercent{
+    font-size: 13px;
+    margin-left: 5px;
+    margin-bottom: 0px;
+    margin-right: 5px;
+}
+.ColorAndPercentContainer{
+   
+}

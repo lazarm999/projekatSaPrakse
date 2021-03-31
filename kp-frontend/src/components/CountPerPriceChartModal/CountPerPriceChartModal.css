@@ -1,0 +1,37 @@
+.ModalContent{
+    height: 500px;
+    width: 900px !important;
+    margin-left: 0px;
+}
+.CenterModal{
+    margin: 0px !important; 
+    padding-left: 500px ;
+    padding-top: 100px;
+    padding-right: 50px;
+}
+@media only screen and (max-width: 1160px) {
+    .CenterModal {
+        padding-left: 50px;
+    }
+}
+@media only screen and (min-width: 1160px) {
+    .CenterModal {
+        padding-left: 50px;
+    }
+}
+
+@media only screen and (min-width: 1260px) {
+    .CenterModal {
+        padding-left: 150px;
+    }
+}
+@media only screen and (min-width: 1360px) {
+    .CenterModal {
+        padding-left: 300px;
+    }
+}
+@media only screen and (min-width: 1560px) {
+    .CenterModal {
+        padding-left: 500px;
+    }
+}

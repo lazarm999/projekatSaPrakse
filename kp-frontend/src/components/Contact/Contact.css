@@ -1,0 +1,18 @@
+.Caption{
+    color: gray;
+}
+.Info{
+    margin-bottom: 30px;
+}
+.Recaptcha{
+    margin: 20px;
+}
+.ButtonContainer{
+    padding: 20px;
+}
+#sendButton{
+    margin-left: 30px;
+    display: block;
+    width: 120px;
+    height: 60px;
+}

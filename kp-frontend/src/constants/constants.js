@@ -1,0 +1,10 @@
+export const SERVER_ADDRESS = process.env.REACT_APP_API_SERVER_URL;
+export const API_GET_ADS = "/api/city/ads";
+export const API_GET_ADS_SUMMARY = "/api/helper/total";
+export const API_GET_CATEGORIES = "/api/helper/categories";
+export const API_GET_REGION_HEAT = "/api/region/heat";
+export const API_GET_MUNICIPALITY_HEAT = "/api/municipality/heat";
+export const API_SEND_MAIL = "/api/helper/mail";
+export const API_GET_COUNT_PER_PRICE = "/api/helper/count-per-price";
+export const API_GET_STATIC_REGION_DATA = "/api/region/data";
+export const API_GET_STATIC_MUNICIPALITY_DATA = "/api/municipality/data";

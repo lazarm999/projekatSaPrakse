@@ -1,0 +1,17 @@
+.DateRange {
+    margin: auto;
+}
+
+.DateSelectButton {
+    margin: 10px 10px 0px 0px;
+}
+
+.Wrapper {
+    display: table !important;
+  }
+  
+  .Text {
+    display: table-cell;
+    vertical-align: middle; 
+    margin-top: 15px;   
+  }

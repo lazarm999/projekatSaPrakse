@@ -1,0 +1,22 @@
+.Modal {
+    width: 750px;
+}
+
+.ListGroup {
+    height: 500px;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+.Badge {
+    margin-left: 10px;
+}
+
+.CategoryText {
+    padding-right: 0px !important;
+}
+
+.Button {
+    padding-left: 0px !important;
+}
+

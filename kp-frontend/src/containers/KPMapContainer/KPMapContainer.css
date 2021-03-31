@@ -1,0 +1,65 @@
+.Container {
+    height: 100%;
+    background-color: rgba(148, 151, 149, 0.1);
+    padding: 10px;
+    max-width: 1400px;
+    min-height:820px;
+    margin:0 auto;
+    border-radius: 4px;
+    -webkit-box-shadow: 3px 3px 36px 14px rgba(0, 0, 0, 0.25);
+    -moz-box-shadow: 3px 3px 36px 14px rgba(0, 0, 0, 0.25);
+    box-shadow: 3px 3px 36px 14px rgba(0, 0, 0, 0.25);
+}
+
+.MapContainer {
+    height: 730px;
+}
+.HeatmapLegend{
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.Toolbox {
+    padding-top: 10px;
+    padding-right: 30px;
+    border: 1px dotted wheat;
+    border-radius: 4px;
+    width: 100%;
+    min-height: 100%;
+    background-color: white;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    margin: 0 auto;
+}
+.Item {
+    margin: 22px 2px;
+}
+
+.CircularProgress {
+    margin: auto;
+    color: #284A88;
+}
+
+.CircularProgressContainer {
+    height: 700px;
+}
+
+.Title {
+    text-align: left;
+    font-size: 100%;
+    font-weight: bold; 
+    margin: 5px 0px 5px 5px;
+}
+
+@media(max-width: 768) {
+    .Container{
+        margin-left: 0em;
+        margin-right: 0em;
+    }
+    .Toolbox {
+        margin: 0 10px 0 0;
+        background-color: black;
+    }
+};
+

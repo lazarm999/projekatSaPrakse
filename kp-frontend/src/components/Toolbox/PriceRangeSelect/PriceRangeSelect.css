@@ -1,0 +1,10 @@
+.Wrapper {
+  padding-top: 10px;
+  display: table !important;
+}
+
+.Text {
+  display: table-cell;
+  vertical-align: middle; 
+  margin-top: 5px;   
+}
